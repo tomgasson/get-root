@@ -1,6 +1,6 @@
 {
   "name": "get-root",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "returns a <div id=\"root\" /> element either found or created on the document body",
   "main": "index.js",
   "scripts": {

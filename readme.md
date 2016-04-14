@@ -11,6 +11,7 @@ npm install get-root --save-dev
 
 ```javascript
 
+import React from 'react'
 import getRoot from 'get-root'
 import { render } from 'react-dom'
 
