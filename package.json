@@ -1,0 +1,15 @@
+{
+  "name": "get-root",
+  "version": "0.0.1",
+  "description": "returns a <div id=\"root\" /> element either found or created on the document body",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Tom Gasson <tom@gasson.com.au>",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "jsdom": "^8.3.1"
+  }
+}
